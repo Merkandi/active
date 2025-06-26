@@ -1,5 +1,5 @@
 {
-  "name": "adrianmerk/laravelactive",
+  "name": "merkandi/laravelactive",
   "description": "The helper class for Laravel applications to get active class base on current route for Laravel 11",
   "keywords": [
     "laravel",
